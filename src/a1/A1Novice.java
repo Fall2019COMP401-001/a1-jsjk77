@@ -3,11 +3,10 @@ package a1;
 import java.util.Scanner;
 
 public class A1Novice {
-	
-    public static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
     	
+    	Scanner scan = new Scanner(System.in);
     	int customers, itemsBought, itemAmount;
         double price, finalPrice = 0;
         String firstName, lastName;

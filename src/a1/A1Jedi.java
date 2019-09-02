@@ -1,8 +1,3 @@
-// Hey Jon...lmk if u see this
-// I can see this
-// nice :) 
-
-
 package a1;
 
 import java.util.Scanner;
@@ -70,8 +65,3 @@ public class A1Jedi {
 		scan.close();
 	}
 }
-	
-
-
-
-//I want to die.
